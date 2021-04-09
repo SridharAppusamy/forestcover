@@ -1,0 +1,15 @@
+2021-04-06/12:34:32		Invalid File Name!! File moved to Bad Raw Folder :: forest_co8011998_120218.csv
+2021-04-06/12:34:32		Valid File name!! File moved to GoodRaw Folder :: forest_cover_28011990_120210.csv
+2021-04-06/12:34:32		Invalid File Name!! File moved to Bad Raw Folder :: forest_cover_28011997_1.csv
+2021-04-06/14:48:27		Invalid File Name!! File moved to Bad Raw Folder :: forest_co8011998_120218.csv
+2021-04-06/14:48:27		Valid File name!! File moved to GoodRaw Folder :: forest_cover_28011990_120210.csv
+2021-04-06/14:48:27		Invalid File Name!! File moved to Bad Raw Folder :: forest_cover_28011997_1.csv
+2021-04-06/16:24:29		Invalid File Name!! File moved to Bad Raw Folder :: forest_co8011998_120218.csv
+2021-04-06/16:24:29		Valid File name!! File moved to GoodRaw Folder :: forest_cover_28011990_120210.csv
+2021-04-06/16:24:29		Invalid File Name!! File moved to Bad Raw Folder :: forest_cover_28011997_1.csv
+2021-04-06/16:48:30		Invalid File Name!! File moved to Bad Raw Folder :: forest_co8011998_120218.csv
+2021-04-06/16:48:30		Valid File name!! File moved to GoodRaw Folder :: forest_cover_28011990_120210.csv
+2021-04-06/16:48:30		Invalid File Name!! File moved to Bad Raw Folder :: forest_cover_28011997_1.csv
+2021-04-06/18:48:48		Invalid File Name!! File moved to Bad Raw Folder :: forest_co8011998_120218.csv
+2021-04-06/18:48:48		Valid File name!! File moved to GoodRaw Folder :: forest_cover_28011990_120210.csv
+2021-04-06/18:48:48		Invalid File Name!! File moved to Bad Raw Folder :: forest_cover_28011997_1.csv

@@ -1,0 +1,22 @@
+2020-02-17/17:42:51		BadRaw directory deleted before starting validation!!!
+2020-02-17/17:42:51		GoodRaw directory deleted successfully!!!
+2020-02-17/19:00:57		BadRaw directory deleted before starting validation!!!
+2020-02-17/19:00:57		GoodRaw directory deleted successfully!!!
+2020-02-17/19:09:09		GoodRaw directory deleted successfully!!!
+2020-02-17/19:09:09		Bad files moved to archive
+2020-02-17/19:09:09		Bad Raw Data Folder Deleted successfully!!
+2020-02-17/23:20:32		GoodRaw directory deleted successfully!!!
+2020-02-17/23:20:32		Bad files moved to archive
+2020-02-17/23:20:32		Bad Raw Data Folder Deleted successfully!!
+2021-04-05/12:50:20		GoodRaw directory deleted successfully!!!
+2021-04-05/12:50:20		Bad files moved to archive
+2021-04-05/12:50:20		Bad Raw Data Folder Deleted successfully!!
+2021-04-05/13:38:03		GoodRaw directory deleted successfully!!!
+2021-04-05/13:38:03		Bad files moved to archive
+2021-04-05/13:38:03		Bad Raw Data Folder Deleted successfully!!
+2021-04-06/13:08:04		BadRaw directory deleted before starting validation!!!
+2021-04-06/13:08:04		Error while Deleting Directory : [WinError 32] The process cannot access the file because it is being used by another process: 'Training_Raw_files_validated/Good_Raw/forest_cover_28011992_120212.csv'
+2021-04-06/13:09:00		GoodRaw directory deleted successfully!!!
+2021-04-06/13:45:33		GoodRaw directory deleted successfully!!!
+2021-04-06/13:45:33		Bad files moved to archive
+2021-04-06/13:45:33		Bad Raw Data Folder Deleted successfully!!
