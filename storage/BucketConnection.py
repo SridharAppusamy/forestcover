@@ -91,7 +91,7 @@ class Connection():
 
 
 
-upload=AwsConnection()
+upload=Connection()
 #path=r'C:\Users\703202952\Downloads\waferFaultDetection (2)\waferFaultDetection\code\WaferFaultDetection_new\Prediction_Batch_files\wafer_07012020_041011.csv'
 #dd=upload.upload_to_aws(path, '', 'Wafer_15010_13053.csv')
 #print(upload.upload())

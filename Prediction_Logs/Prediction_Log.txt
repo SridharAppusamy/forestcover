@@ -58,3 +58,4 @@
 2021-04-06/18:48:52		Entered the load_model method of the File_Operation class
 2021-04-06/18:48:52		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
 2021-04-06/18:48:52		End of Prediction
+2021-04-09/16:35:36		Start of Validation on files for prediction!!
