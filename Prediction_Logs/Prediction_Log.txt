@@ -59,3 +59,25 @@
 2021-04-06/18:48:52		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
 2021-04-06/18:48:52		End of Prediction
 2021-04-09/16:35:36		Start of Validation on files for prediction!!
+2021-04-11/09:20:47		Start of Validation on files for prediction!!
+2021-04-11/09:20:47		Raw Data Validation Complete!!
+2021-04-11/09:20:47		Creating Prediction_Database and tables on the basis of given schema!!!
+2021-04-11/09:20:49		Table creation Completed!!
+2021-04-11/09:20:49		Insertion of Data into Table started!!!!
+2021-04-11/09:20:52		Insertion in Table completed!!!
+2021-04-11/09:20:52		Deleting Good Data Folder!!!
+2021-04-11/09:20:52		Good_Data folder deleted!!!
+2021-04-11/09:20:52		Moving bad files to Archive and deleting Bad_Data folder!!!
+2021-04-11/09:20:52		Bad files moved to archive!! Bad folder Deleted!!
+2021-04-11/09:20:52		Validation Operation completed!!
+2021-04-11/09:20:52		Extracting csv file from table
+2021-04-11/09:20:52		Start of Prediction
+2021-04-11/09:20:52		Entered the get_data method of the Data_Getter class
+2021-04-11/09:20:52		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-04-11/09:20:52		Entered the load_model method of the File_Operation class
+2021-04-11/09:20:52		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2021-04-11/09:20:52		Entered the find_correct_model_file method of the File_Operation class
+2021-04-11/09:20:52		Exited the find_correct_model_file method of the Model_Finder class.
+2021-04-11/09:20:52		Entered the load_model method of the File_Operation class
+2021-04-11/09:20:52		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2021-04-11/09:20:52		End of Prediction
